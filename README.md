@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Purushotham K 👋
 
-<!--
-**PMK19599/PMK19599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ECE student and product-focused developer building AI-powered, accessible, and human-centred systems.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Full-stack development
+- AI integration
+- Accessibility technology
+- Windows automation
+- Hardware–software systems
+
+## Featured Project
+
+### Nexora AI
+
+An adaptive learning platform designed for students with ADHD, autism, and dyslexia.
+
+[View Nexora AI](https://github.com/PMK19599/nexora-ai)
