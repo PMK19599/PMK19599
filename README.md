@@ -33,4 +33,4 @@ An adaptive learning platform designed for students with ADHD, autism, and dysle
 
 ## Contact
 
-- GitHub: [PMK19599](https://github.com/PMK19599)
+- Email: purushothamk305@gmail.com
