@@ -30,3 +30,7 @@ An adaptive learning platform designed for students with ADHD, autism, and dysle
 - Writing cleaner and more testable code
 - Deploying projects with proper security and configuration
 - Using AI tools without losing technical ownership
+
+## Contact
+
+- GitHub: [PMK19599](https://github.com/PMK19599)
