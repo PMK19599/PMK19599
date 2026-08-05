@@ -17,3 +17,9 @@ ECE student and product-focused developer building AI-powered, accessible, and h
 An adaptive learning platform designed for students with ADHD, autism, and dyslexia.
 
 [View Nexora AI](https://github.com/PMK19599/nexora-ai)
+
+## Projects
+
+- **Nexora AI** — adaptive learning platform for neurodivergent students
+- **SONIIC** — modular Windows voice assistant and automation system
+- **Project-R** — a private long-term interactive project currently in development
