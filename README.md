@@ -31,6 +31,10 @@ An adaptive learning platform designed for students with ADHD, autism, and dysle
 - Deploying projects with proper security and configuration
 - Using AI tools without losing technical ownership
 
+## How I Work
+
+I build through iteration: define the problem, prototype quickly, test honestly, fix weaknesses, and document what I learn.
+
 ## Contact
 
 - Email: purushothamk305@gmail.com
