@@ -27,6 +27,9 @@ A guarded RAG system combining retrieval, reranking, evidence checks, grounded g
 ### [Agro Rover](https://github.com/PMK19599/agro-rover)
 An IoT-enabled agricultural rover combining embedded control, environmental monitoring, and cloud connectivity.
 
+### [H-AQMN](https://github.com/PMK19599/hyperlocal-air-quality-network)
+An ESP32-based hyperlocal air-quality monitoring system combining environmental sensing, ThingSpeak cloud telemetry, and a deployed monitoring dashboard.
+
 ## 🧪 Current Experiments
 
 ### [AEGIS](https://github.com/PMK19599/aegis)
