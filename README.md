@@ -52,9 +52,9 @@ I prefer shipping working prototypes, learning from what fails, and improving th
 
 ## 📚 What I'm Learning
 
-- Building reliable production-ready applications
-- Designing better AI-powered systems
-- Writing cleaner and more maintainable code
+- Building production-ready applications
+- Designing reliable AI-powered systems
+- Writing clean, maintainable code
 - Connecting software intelligence with hardware
 
 ## 🤝 Let's Connect
